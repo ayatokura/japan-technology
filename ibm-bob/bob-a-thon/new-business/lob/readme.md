@@ -2,7 +2,7 @@
 ## 仕様駆動開発入門：ユースケースを想定した、Webアプリのプロトタイピング
 
 * 最終更新日: 2026/7/16
-* Author: Akira Onishi (Principal BDE, AI Lab Japan Office, IBM Japan)
+* Author: Akira Onishi (Principal BDE, AI Lab Japan Office, IBM Japan), Aya Tokura (BDE, AI Lab Japan Office, IBM Japan)
 
 ---
 
